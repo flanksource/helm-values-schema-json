@@ -3,7 +3,7 @@
 # borrowed from https://github.com/technosophos/helm-template
 
 PROJECT_NAME="helm-values-schema-json"
-PROJECT_GH="losisin/$PROJECT_NAME"
+PROJECT_GH="flanksource/$PROJECT_NAME"
 HELM_PLUGIN_PATH="$HELM_PLUGIN_DIR"
 
 # Convert the HELM_PLUGIN_PATH to unix if cygpath is
